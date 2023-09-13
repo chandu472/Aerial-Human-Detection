@@ -1,6 +1,7 @@
 Developing an AI model using YOLOv8 to detect humans in aerial drone images for Industrial Surveillance and potential Rescue Operations applications.
 
 **Abstract**
+
 Unmanned aerial vehicles (drones) equipped with high-resolution cameras and powerful GPUs 
 have the potential to enhance Search-and-Rescue (SAR) operations in remote and hostile 
 environments. Rapidly locating unconscious or injured victims is crucial for improving their 
@@ -13,6 +14,7 @@ accuracy comparable to state-of-the-art approaches but with significantly faster
 times.
 
 **Problem Statement**
+
 We have been given problem statement of Identifying and detecting humans in aerial view 
 images captured by drones and UAV’s. Aerial images particularly of terrains , grass fields 
 etc.So we need to develop model such it should be able to identify and detect humans.
@@ -28,6 +30,7 @@ presence of cluttered backgrounds, diverse poses, and the small size of humans i
 further exacerbate the complexity of the task.
 
 **Objective**
+
 The objective of this project is to develop a robust and efficient system for human detection 
 using aerial image datasets, specifically focusing on aerial images obtained from platforms 
 such as drones or satellites. The primary goal is to enable the detection of humans in real-time 
